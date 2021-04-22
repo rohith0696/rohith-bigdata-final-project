@@ -117,3 +117,9 @@ sns.barplot(xlabel, ylabel, data=df, palette="Paired").set_title(title)
 
 - Displaying the top 15 words in the form of chart.
 ![Chart](result2.JPG)
+
+
+## References:
+
+- https://www.gutenberg.org/
+- https://datascience-enthusiast.com/Python/cs110_lab3a_word_count_rdd.html
